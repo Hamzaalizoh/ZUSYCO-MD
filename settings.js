@@ -22,9 +22,9 @@ module.exports = {
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-GE-LOWQ.jpg',
+    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-I-LOWQ.jpg',
+    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYEGE-LOWQ.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : true,
